@@ -20,3 +20,26 @@ Belarusian State University of Informatics and Radioelectronics (not finished)<b
 *2016-2019*<br>
 *3rd course*<br>
 *Faculty of Radioengineering and Electronics*
+## Skills
+- Teamwork
+- HTML/CSS
+- Javascript
+- C++
+## Languages
+- English (B1)<br>
+*Limited Working Proficiency*<br>
+- Russian<br>
+*Native or Bilingual Proficiency*
+## Code examples
+### Square Every Digit (Codewars)
+```
+function squareDigits(num){
+  let str=num.toString();
+  let res=[];
+  for (let i=0;i<str.length;i++)
+    {
+      res[i]=str[i]*str[i];
+    }
+  return +(res.join(''));
+}
+```
