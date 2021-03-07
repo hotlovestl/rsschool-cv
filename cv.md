@@ -43,3 +43,9 @@ function squareDigits(num){
   return +(res.join(''));
 }
 ```
+### Palindrome Strings (Codewars)
+```
+function isPalindrome(line) {
+    return (String(line) == String(line).split('').reverse().join(''));
+  }
+```
