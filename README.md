@@ -1,1 +1,1 @@
-# https://hotlovestl.github.io/rsschool-cv/cv
+# https://hotlovestl.github.io/rsschool-cv/
